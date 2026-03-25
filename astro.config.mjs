@@ -5,6 +5,6 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
   site: 'https://vlad150288.github.io',
-  base: '/photostudio',
+  base: '',
   outDir: './docs',
 });
